@@ -35,9 +35,9 @@ Users can add, edit, delete, and search expenses, and view the total amount spen
    cd expense-tracker
 ```
 3. Create Virtual Environment:
-   ```bash
+```bash
    python -m venv venv
-   ```
+```
 
 4. Activate Virtual Environment (Windows):
 ```bash
