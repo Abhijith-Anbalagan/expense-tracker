@@ -65,3 +65,8 @@ http://127.0.0.1:8000/
 
 Pull requests are welcome!
 Feel free to open issues for suggestions or improvements.
+
+
+## 📜 License
+
+MIT License © 2025 Abhijith Anbalagan
